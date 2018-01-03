@@ -1,0 +1,14 @@
+.first-class {
+    background: pink;
+}
+
+.economic-class {
+    background: purple;
+}
+
+.seats {
+    border: 1px solid black;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+}
